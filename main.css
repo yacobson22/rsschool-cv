@@ -1,19 +1,21 @@
-.warning {
-    border: 10px ridge #f00;
-    background-color: #ff0;
-    padding: .5rem;
-    display: flex;
-    flex-direction: column;
-}
-.warning img {
-    width: 100%;
-}
-
-.warning p {
-    font: small-caps bold 1.2rem sans-serif;
-    text-align: center;
-}
-
 .output {
     font: 1rem 'Fira Sans', sans-serif;
+}
+
+p,
+dt {
+    font-weight: bold;
+}
+
+dl,
+dd {
+    font-size: .9rem;
+}
+
+dd {
+    margin-bottom: 1em;
+}
+legend {
+    background-color: #000;
+    color: #fff
 }
