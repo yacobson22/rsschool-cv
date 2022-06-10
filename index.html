@@ -32,6 +32,45 @@
 
         <h2>About MySelf:</h2>
         <p>_I'm 27 years old, I studied in University RANEPA in Moscow, for a specialty quality managment. But I understand, that I don't wont work by specialty, because it's so boring and don't interesting for me. I belive, that I can be Front-End Development thanks to this course.</p>
+
+        <hr>
+
+        <h2>Code Example:</h2>
+        <code>command = ""<br>
+            started = False<br>
+            while True:<br>
+                command = input("> ").lower()<br>
+                if command == "start":<br>
+                    if started:<br>
+                        print("Car is already started!")<br>
+                    else:<br>
+                        started = True<br>
+                        print("Car started...")<br>
+                elif command == "stop":<br>
+                    if not started:<br>
+                        print("Car stoped...")<br>
+                    else:<br>
+                        started = False<br>
+                    print("Car is already stopped!")<br>
+                elif command == "help":<br>
+                    print("""<br>
+            start - to start the car<br>
+            stop - to stop the car<br>
+            quit - to quit<br>
+                    """)<br>
+                elif command == "quit":<br>
+                    break<br>
+                else:<br>
+                    print("Sorry, I don't understand")</code>
+    
+        <hr>
         
+        <h2>Skills:</h2>
+        <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>PySharm</li>
+            <li>VS Code</li>
+        </ul>
     </body>
 </html>
