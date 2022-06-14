@@ -1,5 +1,5 @@
 body {
-    background-color: #49506e;
+    background-color: #0d101e;
     color: #cdaa79;
     font-size:  22px;
     font-weight: normal;
@@ -62,3 +62,14 @@ body {
     background-color: rgb(38, 7, 79);
 }
 
+.container {
+    max-width: 750px;
+    margin: auto;
+    padding-top: 30px;
+}
+
+.code {
+    background-color: rgb(92, 91, 76) ;
+    color: black;
+    
+}
