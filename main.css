@@ -58,8 +58,8 @@ body {
     grid-template-columns: 1fr 1fr 0fr;
     align-items: center;
     padding: 20px 60px 20px 60px;
-    color: white;
-    background-color: rgb(38, 7, 79);
+    color: #ffffff;
+    background-color: #26074f;
 }
 
 .container {
@@ -69,7 +69,7 @@ body {
 }
 
 .code {
-    background-color: rgb(92, 91, 76) ;
-    color: black;
+    background-color: #5c5b4c ;
+    color: #000000;
     
 }
