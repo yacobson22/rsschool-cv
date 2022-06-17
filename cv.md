@@ -12,7 +12,7 @@
 ***
 ## About MySelf:
 _I'm 27 years old, I studied in University RANEPA in Moscow, for a specialty quality managment. But I understand, that I don't wont work by specialty, because it's so boring and don't interesting for me. I belive, that I can be Front-End Development thanks to this course. I love travelling so much, planes, mountain ski,and to visit theaters._
-
+g
 ***
 ## Code Example:
 ```

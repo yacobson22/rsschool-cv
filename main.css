@@ -1,0 +1,75 @@
+body {
+    background-color: #0d101e;
+    color: #cdaa79;
+    font-size:  22px;
+    font-weight: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.avatar {
+    width: 320px;
+    border-radius: 50px;
+    position: absolute;
+    left: -0px;
+    top: -0px;
+}
+
+.info {
+    text-align: center;
+    vertical-align: 500px;
+}
+ .info p {
+     font-size: 25px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+ }
+
+ .contact h2 {
+     font-size: 30px;
+     text-align: center;
+ }
+ 
+ .contact{
+     border-style: solid;
+     width: 500px;
+     height: 220px;
+     margin-left: auto;
+     margin-right: auto;
+ }
+
+.table {
+    width: 100%;
+    border-style: solid;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.table td {
+    padding-bottom: 10px;
+}
+
+
+.skills .ul {
+    margin: 50px;
+}
+
+.footer {
+    display: grid;
+    grid-template-columns: 1fr 1fr 0fr;
+    align-items: center;
+    padding: 20px 60px 20px 60px;
+    color: #ffffff;
+    background-color: #26074f;
+}
+
+.container {
+    max-width: 750px;
+    margin: auto;
+    padding-top: 30px;
+}
+
+.code {
+    background-color: #5c5b4c ;
+    color: #000000;
+    
+}
